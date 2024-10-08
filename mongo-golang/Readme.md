@@ -1,0 +1,1 @@
+###      mongo --host localhost --port 27017 -u mongogolang -p mongogolang --authenticationDatabase admin
